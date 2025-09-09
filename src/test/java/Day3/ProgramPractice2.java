@@ -15,7 +15,7 @@ public class ProgramPractice2 {
 //@Test
 	void splitStringCheck()
 	{
-		System.out.println("Enter a String");
+		System.out.println("Enter a variable");
 		Scanner sc= new Scanner(System.in);
 		String word=sc.nextLine();
 		String a[]=word.split("[,?\\saj]");
