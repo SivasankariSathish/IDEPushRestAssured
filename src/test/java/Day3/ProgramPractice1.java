@@ -9,7 +9,7 @@ public class ProgramPractice1 {
 	//@Test
 	void reverseStringTry()
 	{
-		System.out.println("Enter a string to reverse");
+		System.out.println("Enter a variable to reverse");
 	Scanner sc= new Scanner(System.in);
 	String word=sc.nextLine();
 	String reverse ="" ;
